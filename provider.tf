@@ -1,6 +1,6 @@
 provider "aws" {
 region  = "ap-southeast-2"
-profile = "terraform-test”
+profile = "terraform-test"
 version = "1.31"
 }
 terraform {
